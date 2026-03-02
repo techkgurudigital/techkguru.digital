@@ -205,7 +205,7 @@ export default function Header() {
                   </span>
                 </div>
 
-                <div className="flex gap-4 text-lg">
+                {/* <div className="flex gap-4 text-lg">
                   <a
                     href="#"
                     className="text-gray-500 hover:text-[#1877F2] transition"
@@ -233,7 +233,7 @@ export default function Header() {
                   >
                     <FaTwitter />
                   </a>
-                </div>
+                </div> */}
               </div>
 
               <div className="relative flex justify-between border-t items-center megap">

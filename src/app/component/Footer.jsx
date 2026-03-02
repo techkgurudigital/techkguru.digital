@@ -193,7 +193,7 @@ export default function Footer() {
             </div>{" "}
             <div className="col-md-7">
               {" "}
-              <div className="footer-menu">
+              {/* <div className="footer-menu">
                 {" "}
                 <ul>
                   {" "}
@@ -214,7 +214,7 @@ export default function Footer() {
                     <Link href="#">Twitter</Link>{" "}
                   </li>{" "}
                 </ul>{" "}
-              </div>{" "}
+              </div>{" "} */}
             </div>{" "}
           </div>{" "}
         </div>
