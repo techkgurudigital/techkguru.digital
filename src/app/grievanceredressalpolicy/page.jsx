@@ -58,7 +58,7 @@ export default function grievanceredressalpolicy() {
               <p>
                 TechkGuru Digital <br />
                 Email: grievance@techkguru.digital <br />
-                Alternate: support@techguru.digital <br />
+                Alternate: support@techkguru.digital <br />
                 Phone: +91 9988991533
               </p>
 
