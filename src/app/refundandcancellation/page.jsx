@@ -96,7 +96,7 @@ export default function refundandcancellation() {
 
   <h4 className="mb-3">11. Contact Us</h4>
   <p>
-    Email: info@techguru.digital <br />
+    Email: info@techkguru.digital <br />
     Phone: +91 99889 91533
   </p>
 

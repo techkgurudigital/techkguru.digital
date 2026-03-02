@@ -57,7 +57,7 @@ export default function grievanceredressalpolicy() {
               <h4 className="mb-3">4. Grievance Redressal Officer</h4>
               <p>
                 TechkGuru Digital <br />
-                Email: grievance@techguru.digital <br />
+                Email: grievance@techkguru.digital <br />
                 Alternate: support@techguru.digital <br />
                 Phone: +91 9988991533
               </p>

@@ -128,7 +128,7 @@ export default function PrivacyPolicy() {
               <h4 className="mb-3">12. Contact Us</h4>
               <div className="contact-box">
                 <p><strong>TechkGuru Digital</strong></p>
-                <p>📧 info@techguru.digital</p>
+                <p>📧 info@techkguru.digital</p>
                 <p>📞 +91 99889 91533</p>
               </div>
 

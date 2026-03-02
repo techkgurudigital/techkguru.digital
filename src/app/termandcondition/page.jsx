@@ -104,7 +104,7 @@ export default function TermandCondition() {
 
         <h4 className="mb-3">17. Contact</h4>
         <p>
-          Email: info@techguru.digital <br />
+          Email: info@techkguru.digital <br />
           Phone: +91 99889 91533
         </p>
 
