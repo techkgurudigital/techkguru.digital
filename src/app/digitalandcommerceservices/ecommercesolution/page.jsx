@@ -82,7 +82,7 @@ export default function ECommerceSolutions() {
 
                     <div className="cta-info-item">
                       <p>E-mail now</p>
-                      <h3>info@techguru.digital</h3>
+                      <h3>info@techkguru.digital</h3>
                     </div>
                   </div>
                 </div>
