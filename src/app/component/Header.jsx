@@ -198,7 +198,7 @@ export default function Header() {
                   {/* <span>📍 Mumbai, Maharashtra</span> */}
                   <span className="flex items-center gap-2 text-gray-600 hover:text-indigo-600 transition cursor-pointer pl-4">
                     <FiMail className="text-lg text-indigo-500" />
-                    Info@techguru.digital
+                    Info@techkguru.digital
                   </span>
                   <span className="flex items-center gap-2">
                     <FiPhone className="text-indigo-500" /> +91 99889-91533

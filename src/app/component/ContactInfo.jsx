@@ -68,7 +68,7 @@ export default function ContactInfo() {
 
                 <div className="contact-info-content">
                   <h3>send us e-mail</h3>
-                  <p>info@techguru.digital</p>
+                  <p>info@techkguru.digital</p>
                 </div>
               </div>
             </div>
