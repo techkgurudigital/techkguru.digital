@@ -19,6 +19,7 @@ const menuData = [
       { label: "About Us", href: "/about" },
       { label: "FAQS", href: "/faqs" },
       { label: "Contact", href: "/contact" },
+      { label: "Company Profile", href: "/pdf/Company Profile - techkguru.digital.pdf" },
     ],
   },
   {
@@ -272,8 +273,13 @@ export default function Header() {
                             Grow wealth with expert investment guidance.
                           </p>
                         </Link>
-
-                        <Link href="/" className="mega-item">
+                        <a
+                          href="/pdf/Company Profile - techkguru.digital.pdf"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="mega-item"
+                        >
+                        {/* <Link href="/" className="mega-item"> */}
                           <img
                             src="/images/icon-service-4.svg"
                             className="w-10 mb-3"
@@ -285,7 +291,7 @@ export default function Header() {
                             Focused on compliance, reliability, and scalable
                             digital service delivery.
                           </p>
-                        </Link>
+                        </a>
                         <Link href="/contact" className="mega-item">
                           <img
                             src="/images/icon-service-4.svg"
