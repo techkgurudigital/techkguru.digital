@@ -26,7 +26,7 @@ export default function TermandCondition() {
 
         <ul>
           <li>AEPS (Aadhar Enabled Payment Services)</li>
-          <li>BBPS (Bharat Bill Payment System)</li>
+          <li> Bill Payment </li>
           <li>Credit Card Bill Payment</li>
           <li>Payment Solutions</li>
           <li>Micro ATM (mATM)</li>

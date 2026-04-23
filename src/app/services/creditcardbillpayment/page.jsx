@@ -46,7 +46,7 @@ export default function CreditCardBillPayment() {
                       <Link href="/services/aeps">AEPS</Link>
                     </li>
                     <li>
-                      <Link href="/services/bbps">BBPS</Link>
+                      <Link href="/services/bp">BP</Link>
                     </li>
                     <li>
                       <Link href="/services/creditcardbillpayment">

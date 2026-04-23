@@ -9,27 +9,27 @@ import Preloader from "@/app/component/Preloader";
 
 const faqs = [
   {
-    q: "What types of bills can be paid through BBPS?",
-    a: "BBPS supports utility and service bill payments such as electricity, water, gas, mobile postpaid, DTH, broadband, and other supported bill categories.",
+    q: "What types of bills can be paid through BP?",
+    a: "BP supports utility and service bill payments such as electricity, water, gas, mobile postpaid, DTH, broadband, and other supported bill categories.",
   },
   {
-    q: "Do customers receive payment confirmation for BBPS transactions?",
-    a: "Yes, BBPS provides instant payment confirmation along with a digital receipt after successful bill payment.",
+    q: "Do customers receive payment confirmation for BP transactions?",
+    a: "Yes, BP provides instant payment confirmation along with a digital receipt after successful bill payment.",
   },
   {
-    q: "Can BBPS be used for recurring bill payments?",
-    a: "Yes, customers can use BBPS for both recurring and one-time bill payments, depending on the biller category.",
+    q: "Can BP be used for recurring bill payments?",
+    a: "Yes, customers can use BP for both recurring and one-time bill payments, depending on the biller category.",
   },
 ];
 
-export default function Bbps() {
+export default function Bp() {
   const [openIndex, setOpenIndex] = useState(0);
 
   return (
     <>
       <Preloader />
       <Header />
-      <PageHeader title="BBPS – Bharat Bill Payment System" breadcrumb="bbps" />
+      <PageHeader title="Bill Payment " breadcrumb="bp" />
       <div className="page-service-single">
         <div className="container">
           <div className="row">
@@ -43,7 +43,7 @@ export default function Bbps() {
                       <Link href="/services/aeps">AEPS</Link>
                     </li>
                     <li>
-                      <Link href="/services/bbps">BBPS</Link>
+                      <Link href="/services/bp">BP</Link>
                     </li>
                     <li>
                       <Link href="/services/creditcardbillpayment">
@@ -105,14 +105,14 @@ export default function Bbps() {
 
                 <div className="service-entry">
                   <p className="wow fadeInUp">
-                    The Bharat Bill Payment System (BBPS) is an integrated bill
+                    The Bill Payment  (BP) is an integrated bill
                     payment ecosystem that enables customers to pay recurring
                     and non-recurring utility bills through a single platform.
                     It provides a standardized and interoperable bill payment
                     experience across bill categories.
                   </p>
                   <p className="wow fadeInUp">
-                    BBPS ensures transparency, reliability, and instant
+                    BP ensures transparency, reliability, and instant
                     confirmation, making it a trusted system for both customers
                     and service providers.
                   </p>

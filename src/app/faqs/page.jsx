@@ -120,19 +120,19 @@ const faqSections = [
   },
 
   {
-    title: "BBPS – Bharat Bill Payment System",
+    title: "Bill Payment",
     faqs: [
       {
-        q: "What types of bills can be paid through BBPS?",
-        a: "BBPS supports electricity, water, gas, mobile postpaid, DTH, broadband, and other utility payments.",
+        q: "What types of bills can be paid through BP?",
+        a: "BP supports electricity, water, gas, mobile postpaid, DTH, broadband, and other utility payments.",
       },
       {
         q: "Do customers receive payment confirmation?",
         a: "Yes, instant payment confirmation with a digital receipt is provided.",
       },
       {
-        q: "Can BBPS be used for recurring bill payments?",
-        a: "Yes, BBPS supports both recurring and one-time bill payments.",
+        q: "Can BP be used for recurring bill payments?",
+        a: "Yes, BP supports both recurring and one-time bill payments.",
       },
     ],
   },

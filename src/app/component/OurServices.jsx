@@ -51,10 +51,10 @@ export default function OurServices() {
                 },
                 {
                   no: "03",
-                  title: "BBPS – Bharat Bill Payment System",
+                  title: "Bill Payment",
                   description: "Pay utility bills, DTH, mobile postpaid, and more through a unified, secure bill payment network.",
                   icon: "icon-service-3.svg",
-                  link:"/bbps"
+                  link:"/bp"
                 },
                 {
                   no: "04",

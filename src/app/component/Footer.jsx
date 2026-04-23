@@ -139,7 +139,7 @@ export default function Footer() {
                     <Link href="/matm">Micro ATM</Link>
                   </li>
                   <li>
-                    <Link href="/bbps">BBPS</Link>
+                    <Link href="/bp">BP</Link>
                   </li>
                   <li>
                     <Link href="/payment-solutions">

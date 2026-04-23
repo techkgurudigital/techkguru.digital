@@ -50,7 +50,7 @@ export default function WhyChooseUs() {
                   <div className="why-choose-box-content">
                     <h3>Multiple Services, One Platform</h3>
                     <p>
-                      Access AEPS, BBPS, payments, travel, e-commerce, and more
+                      Access AEPS, BP, payments, travel, e-commerce, and more
                       — all from a single, integrated system.
                     </p>
                   </div>

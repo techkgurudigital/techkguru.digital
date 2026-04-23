@@ -25,7 +25,7 @@ export default function CompanyOverview() {
                 </p>
                 <p>
                   We provide a wide range of fintech services including <b>AEPS,
-                  BBPS, Micro ATM (mATM), Point of Sale (POS), digital payment
+                  BP, Micro ATM (mATM), Point of Sale (POS), digital payment
                   solutions, and credit card bill payments,</b> along with digital
                   commerce services such as <b>e-commerce solutions, travel
                   services, and holiday packages.</b> Our platform is designed to

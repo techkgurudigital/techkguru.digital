@@ -35,7 +35,7 @@ export default function refundandcancellation() {
   <ul>
     <li>AEPS cash withdrawals</li>
     <li>Micro ATM (mATM) transactions</li>
-    <li>BBPS bill payments (once successful)</li>
+    <li>Bill payments (once successful)</li>
     <li>Credit card bill payments</li>
     <li>POS transactions</li>
     <li>Completed digital payments</li>

@@ -56,7 +56,7 @@ export default function HowItWork() {
                   <h3>step</h3>
                   <h2>Service Setup & Activation</h2>
                   <p>
-                    Once verified, required services such as AEPS, BBPS,
+                    Once verified, required services such as AEPS, BP,
                     payments, or travel are configured and activated on your
                     account for immediate use.
                   </p>

@@ -27,7 +27,7 @@ export default function WhatWeDo() {
               <div className="what-we-do-list">
                 <ul>
                   <li>AEPS &amp; Micro ATM Banking Services</li>
-                  <li>BBPS & Credit Card Bill Payments</li>
+                  <li>BP & Credit Card Bill Payments</li>
                   <li>Secure Digital Payment Solutions</li>
                   <li>Travel, Holiday & E-Commerce Services</li>
                 </ul>

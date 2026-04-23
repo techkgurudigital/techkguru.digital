@@ -69,7 +69,7 @@ export default function AboutUs() {
                   services with ease and confidence.
                 </p>
                 <p className="wow fadeInUp" data-wow-delay="0.2s">
-                  We offer services including <b> AEPS, BBPS, credit card bill
+                  We offer services including <b> AEPS, BP, credit card bill
                   payments, payment solutions, Micro ATM (mATM), and POS, along
                   with e-commerce, travel, and holiday services.</b> Our platform
                   enables seamless transactions and supports partners in

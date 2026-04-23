@@ -30,8 +30,8 @@ const nextConfig = {
         destination: "/services/aeps",
       },
       {
-        source: "/bbps",
-        destination: "/services/bbps",
+        source: "/bp",
+        destination: "/services/bp",
       },
       {
         source: "/credit-card",

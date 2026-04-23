@@ -30,12 +30,12 @@ const services = [
     link: "/aeps",
   },
   {
-    title: "BBPS – Bharat Bill Payment System",
+    title: "Bill Payment",
     description:
-      "TechkGuru Digital supports the Bharat Bill Payment System, a unified bill payment platform that allows customers to pay utility and service bills easily. Users can pay electricity, water, gas, mobile postpaid, DTH, and other bills with instant confirmation and digital receipts.",
+      "TechkGuru Digital supports the Bill Payment, a unified bill payment platform that allows customers to pay utility and service bills easily. Users can pay electricity, water, gas, mobile postpaid, DTH, and other bills with instant confirmation and digital receipts.",
     icon: "/images/icon-service-2.svg",
     delay: "0.2s",
-    link: "/bbps",
+    link: "/bp",
   },
   {
     title: "Credit Card Bill Payment",

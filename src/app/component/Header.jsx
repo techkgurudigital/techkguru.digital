@@ -27,7 +27,7 @@ const menuData = [
     href: "/fintech",
     items: [
       { label: "AEPS", href: "/aeps" },
-      { label: "BBPS", href: "/bbps" },
+      { label: "BP", href: "/bp" },
       { label: "Credit Card Bill Payment", href: "/credit-card" },
       { label: "Payment Solutions", href: "/payment-solutions" },
       { label: "POS", href: "/pos" },
@@ -335,7 +335,7 @@ export default function Header() {
                           </p>
                         </Link>
 
-                        <Link href="/bbps" className="mega-item">
+                        <Link href="/bp" className="mega-item">
                           <img
                             src="/images/icon-service-2.svg"
                             className="w-10 mb-3"

@@ -35,7 +35,7 @@ export default function grievanceredressalpolicy() {
 
               <ul>
                 <li>AEPS</li>
-                <li>BBPS</li>
+                <li>BP</li>
                 <li>Credit Card Bill Payment</li>
                 <li>Payment Solutions</li>
                 <li>Micro ATM (mATM)</li>

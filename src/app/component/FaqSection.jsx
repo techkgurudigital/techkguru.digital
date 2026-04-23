@@ -7,7 +7,7 @@ import { useState } from "react";
 const faqData = [
   {
     q: "What services do you offer?",
-    a: "We offer a wide range of fintech and digital services including AEPS, Micro ATM (mATM), BBPS, payment solutions, credit card bill payments, travel services, holiday packages, and e-commerce support."
+    a: "We offer a wide range of fintech and digital services including AEPS, Micro ATM (mATM), BP, payment solutions, credit card bill payments, travel services, holiday packages, and e-commerce support."
   },
   {
     q: "Who can use TechkGuru Digital services?",
