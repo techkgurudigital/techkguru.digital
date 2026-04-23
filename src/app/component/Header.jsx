@@ -61,13 +61,13 @@ const menuData = [
   },
    {
     title: "LOGIN",
-    href: "https://webportal.techguru.digital",
+    href: "https://webportal.techkguru.digital",
     items: [
-      { label: "Retailor", href: "https://webportal.techguru.digital/", target:"_blank" },
-      { label: "Distributor", href: "https://webportal.techguru.digital/", target:"_blank" },
+      { label: "Retailor", href: "https://webportal.techkguru.digital/", target:"_blank" },
+      { label: "Distributor", href: "https://webportal.techkguru.digital/", target:"_blank" },
       {
         label: "Super Distributor",
-        href: "https://webportal.techguru.digital/",
+        href: "https://webportal.techkguru.digital/",
         target:"_blank"
       },
     ],
@@ -341,7 +341,7 @@ export default function Header() {
                             className="w-10 mb-3"
                           />
                           <h4 className="text-white font-semibold">
-                            BBPS – Bharat Bill Payment System
+                            Bill Payment 
                           </h4>
                           <p className="text-gray-300 text-sm">
                             Pay utility bills, DTH, mobile postpaid, and more
@@ -563,7 +563,7 @@ export default function Header() {
                     <div className="absolute left-0 top-full hidden group-hover:block w-full bg-[#fff] p-[20px] shadow-2xl rounded-b-2xl z-50">
                       <div className="grid grid-cols-3 gap-6 block">
                         <Link
-                          href="https://webportal.techguru.digital/"
+                          href="https://webportal.techkguru.digital/"
                           className="mega-item"
                         >
                           <img
@@ -578,7 +578,7 @@ export default function Header() {
                         </Link>
 
                         <Link
-                          href="https://webportal.techguru.digital/"
+                          href="https://webportal.techkguru.digital/"
                           className="mega-item"
                         >
                           <img
@@ -595,7 +595,7 @@ export default function Header() {
                         </Link>
 
                         <Link
-                          href="https://webportal.techguru.digital/"
+                          href="https://webportal.techkguru.digital/"
                           className="mega-item"
                         >
                           <img

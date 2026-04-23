@@ -3,7 +3,7 @@ const nextConfig = {
   reactCompiler: true,
 
   // cPanel static export
-  output: "export",
+  // output: "export",
 
   images: {
     unoptimized: true,
