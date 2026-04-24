@@ -115,6 +115,7 @@ export default function Footer() {
                 <div>
                   <h5 className="text-white mb-1">Email Us</h5>
                   <p className="text-gray-300 mb-0">info@techkguru.digital</p>
+                  <p className="text-gray-300 mb-0">admin@techguru.digital</p>
                 </div>
               </div>
 
