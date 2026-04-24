@@ -337,7 +337,7 @@ export default function Header() {
 
                         <Link href="/bp" className="mega-item">
                           <img
-                            src="/images/icon-service-2.svg"
+                            src="\images\WEB\B Mnemonic Logo\B mnemonic Reverse SVG.svg"
                             className="w-10 mb-3"
                           />
                           <h4 className="text-white font-semibold">

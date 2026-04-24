@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
   return (
     <>
     <Header/>
-    <PageHeader title="Privacy Polocy" breadcrumb="privacy policy" />
+    <PageHeader title="Privacy Policy" breadcrumb="privacy policy" />
     <div className="page-privacy-policy">
       <div className="container">
         <div className="row">
