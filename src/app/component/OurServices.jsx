@@ -53,7 +53,7 @@ export default function OurServices() {
                   no: "03",
                   title: "Bill Payment",
                   description: "Pay utility bills, DTH, mobile postpaid, and more through a unified, secure bill payment network.",
-                  icon: "icon-service-3.svg",
+                  icon: "B mnemonic Reverse SVG.svg",
                   link:"/bp"
                 },
                 {
