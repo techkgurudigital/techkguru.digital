@@ -19,7 +19,7 @@ export default function LegalPage() {
                 <div className="col-lg-6 col-md-6 mb-4">
                   <div className="what-we-do-btn">
                     <a href="/pdf/Retailer Agreement - techguru.digital.pdf" target="_blank" className="btn-default">
-                      Retailor Agreement
+                      Retailer Agreement
                     </a>
                   </div>
                 </div>

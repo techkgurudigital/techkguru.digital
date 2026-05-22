@@ -47,7 +47,7 @@ const menuData = [
     title: "LEGAL",
     href: "/legal",
     items: [
-      { label: "Retailor Agreement", href: "/pdf/Retailer Agreement - techguru.digital.pdf" },
+      { label: "Retailer Agreement", href: "/pdf/Retailer Agreement - techguru.digital.pdf" },
       { label: "Distributor Agreement", href: "/pdf/Distributor Agreement - techguru.digital.pdf" },
       {
         label: "Super Distributor Agreement",
@@ -63,7 +63,7 @@ const menuData = [
     title: "LOGIN",
     href: "https://webportal.techkguru.digital",
     items: [
-      { label: "Retailor", href: "https://webportal.techkguru.digital/", target:"_blank" },
+      { label: "Retailer", href: "https://webportal.techkguru.digital/", target:"_blank" },
       { label: "Distributor", href: "https://webportal.techkguru.digital/", target:"_blank" },
       {
         label: "Super Distributor",
@@ -489,7 +489,7 @@ export default function Header() {
                           />
 
                           <h4 className="text-white font-semibold">
-                            Retailor Agreement
+                            Retailer Agreement
                           </h4>
 
                           <p className="text-gray-300 text-sm">
@@ -574,7 +574,7 @@ export default function Header() {
                             src="/images/icon-service-1.svg"
                             className="w-10 mb-3"
                           />
-                          <h4 className="text-white font-semibold">Retailor</h4>
+                          <h4 className="text-white font-semibold">Retailer</h4>
                           <p className="text-gray-300 text-sm">
                             Offer essential fintech and digital services
                             directly to customers with ease.
