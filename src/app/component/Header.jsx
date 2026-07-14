@@ -324,7 +324,7 @@ export default function Header() {
 
                     <div className="absolute left-0 top-full hidden group-hover:block w-full bg-[#fff] p-[20px] shadow-2xl rounded-b-2xl z-50">
                       <div className="grid grid-cols-3 gap-6 block">
-                        <Link href="/aeps" className="mega-item">
+                        {/* <Link href="/aeps" className="mega-item">
                           <img
                             src="/images/icon-service-1.svg"
                             className="w-10 mb-3"
@@ -337,7 +337,7 @@ export default function Header() {
                             your fingertips. (Cash withdrawal, balance check,
                             mini statement)
                           </p>
-                        </Link>
+                        </Link> */}
 
                         <Link href="/bp" className="mega-item">
                           <img

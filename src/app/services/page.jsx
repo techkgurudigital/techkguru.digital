@@ -21,14 +21,14 @@ export default function ServicePage() {
 }
 
 const services = [
-  {
-    title: "AEPS – Aadhaar Enabled Payment Services",
-    description:
-      "We offer Aadhaar Enabled Payment Services that allow customers to perform basic banking transactions using biometric authentication.Through AEPS, users can withdraw cash, check account balances, and access mini statements without visiting a bank branch.This service helps agents and retailers provide essential banking access, especially in remote and semi-urban locations.",
-    icon: "/images/icon-service-1.svg",
-    delay: "0s",
-    link: "/aeps",
-  },
+  // {
+  //   title: "AEPS – Aadhaar Enabled Payment Services",
+  //   description:
+  //     "We offer Aadhaar Enabled Payment Services that allow customers to perform basic banking transactions using biometric authentication.Through AEPS, users can withdraw cash, check account balances, and access mini statements without visiting a bank branch.This service helps agents and retailers provide essential banking access, especially in remote and semi-urban locations.",
+  //   icon: "/images/icon-service-1.svg",
+  //   delay: "0s",
+  //   link: "/aeps",
+  // },
   {
     title: "Bill Payment",
     description:

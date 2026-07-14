@@ -42,9 +42,9 @@ export default function CreditCardBillPayment() {
                 <div className="service-catagery-list wow fadeInUp">
                   <h3>Fintech Services</h3>
                   <ul>
-                    <li>
+                    {/* <li>
                       <Link href="/services/aeps">AEPS</Link>
-                    </li>
+                    </li> */}
                     <li>
                       <Link href="/services/bp">BP</Link>
                     </li>

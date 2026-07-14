@@ -33,7 +33,7 @@ export default function TeamSection() {
                 data-wow-delay={`${index * 0.2}s`}
               >
                 {/* Image */}
-                <div className="team-image">
+                {/* <div className="team-image">
                   <Link href="/team-single">
                     <figure className="image-anime">
                       <Image
@@ -45,11 +45,11 @@ export default function TeamSection() {
                       />
                     </figure>
                   </Link>
-                </div>
+                </div> */}
 
                 {/* Content */}
                 <div className="team-body">
-                  <div className="team-content">
+                  <div className="team-content col-lg-12 col-md-12">
                     <h3>
                       <Link href="/team-single">{member.name}</Link>
                     </h3>

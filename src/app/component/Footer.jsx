@@ -133,9 +133,9 @@ export default function Footer() {
                 {" "}
                 <ul className="!text-left">
                   {" "}
-                  <li>
+                  {/* <li>
                     <Link href="/aeps">AEPS</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/matm">Micro ATM</Link>
                   </li>
