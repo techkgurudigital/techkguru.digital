@@ -44,11 +44,11 @@ export default function TravelServices() {
                 <div className="service-catagery-list wow fadeInUp">
                   <h3>Digital & Commerce Services</h3>
                   <ul>
-                    <li>
+                    {/* <li>
                       <Link href="/digitalandcommerceservices/ecommercesolution">
                         E-Commerce Solutions
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
                       <Link href="/digitalandcommerceservices/holidaypackages">
                         Travel Services

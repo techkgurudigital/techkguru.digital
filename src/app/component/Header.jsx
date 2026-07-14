@@ -418,12 +418,12 @@ export default function Header() {
                       href="/digital"
                       className="px-3 py-2 block hover:text-indigo-600"
                     >
-                      DIGITAL & COMMERCE SERVICES
+                      TRAVELS
                     </Link>
 
                     <div className="absolute left-0 top-full hidden group-hover:block w-full bg-[#fff] p-[20px] shadow-2xl rounded-b-2xl z-50">
                       <div className="grid grid-cols-3 gap-6 block">
-                        <Link href="/ecommerce" className="mega-item">
+                        {/* <Link href="/ecommerce" className="mega-item">
                           <img
                             src="/images/icon-service-1.svg"
                             className="w-10 mb-3"
@@ -435,7 +435,7 @@ export default function Header() {
                             Expand your business online — integrated selling
                             platforms and digital storefront solutions.
                           </p>
-                        </Link>
+                        </Link> */}
 
                         <Link href="/holiday-packages" className="mega-item">
                           <img

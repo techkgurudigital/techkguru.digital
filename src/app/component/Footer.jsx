@@ -160,11 +160,11 @@ export default function Footer() {
                       Travel Services
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/ecommerce">
                       E-Commerce
                     </Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/holiday-packages">
                       Holiday Packages
